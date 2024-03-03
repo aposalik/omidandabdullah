@@ -1,3 +1,5 @@
+
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://omidandabdullah.io)
 <h1 align="center">Hi 👋, I'm Abdullah Salik</h1>
 <h3 align="center">A passionate Web Developer from Afghanistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
@@ -5,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omidandabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="omidandabdullah" /> </p>
 
 - 🌱 I’m currently learning **Node.js and frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/omidandabdullah?tab=repositories](https://github.com/omidandabdullah?tab=repositories)
 
 - 💬 Ask me about **JS, Node ...**
 
@@ -14,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah salik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah salik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-salik-18bb2425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-salik-18bb2425a/" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah salik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah salik" height="30" width="40" /></a>
 <a href="https://instagram.com/apo_salik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apo_salik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdullah salik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdullah salik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullah salik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah salik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucts-xncjgmngcy1suhfgspg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucts-xncjgmngcy1suhfgspg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/qadri8846/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/qadri8846/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
